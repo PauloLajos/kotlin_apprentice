@@ -1,2 +1,2 @@
-# kotlin_apprentice
-Book - Kotlin apprentice
+# Book - Kotlin apprentice
+examples from book
